@@ -1,0 +1,127 @@
+{
+  "week": "2023-04-01 to 2023-04-05",
+  "developers": [
+    {
+      "developer": "alex_chen",
+      "daily_capacity_hours": 7,
+      "schedule": [
+        {
+          "day": "Monday",
+          "tasks": [
+            {
+              "task_id": "1",
+              "title": "Design and implement a RESTful API using FastAPI.",
+              "allocated_hours": 4,
+              "work_description": "Create a secure and scalable API that supports JWT authentication and rate limiting."
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "tasks": [
+            {
+              "task_id": "3",
+              "title": "Develop an AI classification module (scikit-learn) with≥85% accuracy.",
+              "allocated_hours": 4,
+              "work_description": "Train and deploy an AI model using scikit-learn that achieves at least 85% accuracy in classifying customer queries."
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "tasks": [
+            {
+              "task_id": "14",
+              "title": "Fine-tune a BERT model for intent recognition (90% accuracy target).",
+              "allocated_hours": 4,
+              "work_description": "Optimize the pre-trained BERT model to achieve at least 90% accuracy in identifying customer intents."
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "tasks": [
+            {
+              "task_id": "15",
+              "title": "Develop a response suggestion system using cosine similarity on embeddings.",
+              "allocated_hours": 4,
+              "work_description": "Create a system that suggests appropriate responses based on the similarity between customer queries and historical data."
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "tasks": [
+            {
+              "task_id": "16",
+              "title": "Create a sentiment analysis module for automated escalation of frustrated users.",
+              "allocated_hours": 4,
+              "work_description": "Implement a sentiment analysis feature that detects frustration in customer queries and escalates them accordingly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "developer": "alison_thorpe",
+      "daily_capacity_hours": 7,
+      "schedule": [
+        {
+          "day": "Monday",
+          "tasks": [
+            {
+              "task_id": "2",
+              "title": "Implement a PostgreSQL database schema with full-text search and proper indexing.",
+              "allocated_hours": 4,
+              "work_description": "Design and create a robust database schema that includes full-text search capabilities and efficient indexing."
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "tasks": [
+            {
+              "task_id": "4",
+              "title": "Create a ticket assignment algorithm based on agent skills, workload, and priority.",
+              "allocated_hours": 4,
+              "work_description": "Design and implement an algorithm that assigns tickets to agents efficiently based on their skills, current workload, and urgency."
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "tasks": [
+            {
+              "task_id": "5",
+              "title": "Build a real-time notification system using WebSockets.",
+              "allocated_hours": 4,
+              "work_description": "Integrate a WebSocket-based notification system to alert agents and customers in real-time about updates and responses."
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "tasks": [
+            {
+              "task_id": "6",
+              "title": "Develop an agent dashboard using React and TypeScript for real-time ticket management.",
+              "allocated_hours": 4,
+              "work_description": "Create a user-friendly dashboard for agents to manage tickets in real-time, including features like filtering, sorting, and status updates."
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "tasks": [
+            {
+              "task_id": "7",
+              "title": "Create a customer ticket submission form with file upload (up to 10MB).",
+              "allocated_hours": 4,
+              "work_description": "Design and develop a form for customers to submit tickets, allowing attachments up to 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+env/
+
+# API Keys & Sensitive Info
+.env
+config.yaml
+
+# Local Vector Databases
+db/
+*.db
+
+# Agent Memory & Logs (Exclude if you want a clean slate for others)
+agent_memory.json
+logs/
+
+# Streamlit
+.streamlit/
+
+# OS Files
+.DS_Store
+Thumbs.db
