@@ -22,9 +22,9 @@ An AI-powered swarm built with **CrewAI**, **FastAPI**, and **Streamlit** that a
 
 
 2. Start the Backend:
-bash
+ ```bash
 uvicorn main:app --reload --port 5000
 
 3. Start the Frontend:
-bash
+ ```bash
 streamlit run frontened.py
